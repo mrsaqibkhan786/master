@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Saqib khan
+#The Credit For This Code Goes To Saqib Ur Rehman
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
